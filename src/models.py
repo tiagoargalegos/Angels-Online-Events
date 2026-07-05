@@ -12,3 +12,4 @@ class Event:
     day: int
     summer_time: str
     winter_time: str
+    description: str = ""
